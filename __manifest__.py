@@ -10,7 +10,7 @@
     'website': "https://www.gruporequiez.com",
     'category': 'Sales',
     'version': '12.0.0.0.1',
-    'depends': ['sale','stock'],
+    'depends': ['sale_order_observation'],
     'data': [
         # views
         # reports
